@@ -27,7 +27,7 @@
       <% if @document.themes?: %>
       <div class="ui floating dropdown theme basic button" data-element="<%= @document.element %>" data-type="<%= @document.elementType %>">
         <span class="text">Theme</span>
-        <div class="menu ui transition hidden">
+        <div class="menu">
           <% for id, name of @document.themes: %>
             <div class="item" data-value="<%= name %>"><%= (name.charAt(0).toUpperCase() + name.slice(1)) %></div>
           <% end %><!--

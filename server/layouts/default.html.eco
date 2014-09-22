@@ -52,7 +52,7 @@
   <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/breadcrumb.css">
   <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/form.css">
   <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/grid.css">
-  <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/menu.css">
+<!--   <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/menu.css"> -->
   <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/message.css">
   <link rel="stylesheet" type="text/css" class="ui" href="/build/uncompressed/definitions/collections/table.css">
 
